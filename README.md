@@ -1,2 +1,2 @@
 # hello-world
-Intering into new gitHub world
+Entering into new gitHub world
